@@ -55,6 +55,12 @@ build CMakeFiles/ADAL_U3_PRACTICA_1_EJERCICIO_HANOI.dir/mainPila.cpp.obj: CXX_CO
   OBJECT_DIR = CMakeFiles\ADAL_U3_PRACTICA_1_EJERCICIO_HANOI.dir
   OBJECT_FILE_DIR = CMakeFiles\ADAL_U3_PRACTICA_1_EJERCICIO_HANOI.dir
 
+build CMakeFiles/ADAL_U3_PRACTICA_1_EJERCICIO_HANOI.dir/Pila.cpp.obj: CXX_COMPILER__ADAL_U3_PRACTICA_1_EJERCICIO_HANOI_unscanned_Debug C$:/Users/Javier$ Avila$ Lopez/CLionProjects/Unidad_1_Actividad_1_Javier_Avila_Lopez/ADAL_U3_PRACTICA_1_EJERCICIO_HANOI/Pila.cpp || cmake_object_order_depends_target_ADAL_U3_PRACTICA_1_EJERCICIO_HANOI
+  DEP_FILE = CMakeFiles\ADAL_U3_PRACTICA_1_EJERCICIO_HANOI.dir\Pila.cpp.obj.d
+  FLAGS = -g -std=gnu++20 -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\ADAL_U3_PRACTICA_1_EJERCICIO_HANOI.dir
+  OBJECT_FILE_DIR = CMakeFiles\ADAL_U3_PRACTICA_1_EJERCICIO_HANOI.dir
+
 
 # =============================================================================
 # Link build statements for EXECUTABLE target ADAL_U3_PRACTICA_1_EJERCICIO_HANOI
@@ -63,7 +69,7 @@ build CMakeFiles/ADAL_U3_PRACTICA_1_EJERCICIO_HANOI.dir/mainPila.cpp.obj: CXX_CO
 #############################################
 # Link the executable ADAL_U3_PRACTICA_1_EJERCICIO_HANOI.exe
 
-build ADAL_U3_PRACTICA_1_EJERCICIO_HANOI.exe: CXX_EXECUTABLE_LINKER__ADAL_U3_PRACTICA_1_EJERCICIO_HANOI_Debug CMakeFiles/ADAL_U3_PRACTICA_1_EJERCICIO_HANOI.dir/mainPila.cpp.obj
+build ADAL_U3_PRACTICA_1_EJERCICIO_HANOI.exe: CXX_EXECUTABLE_LINKER__ADAL_U3_PRACTICA_1_EJERCICIO_HANOI_Debug CMakeFiles/ADAL_U3_PRACTICA_1_EJERCICIO_HANOI.dir/mainPila.cpp.obj CMakeFiles/ADAL_U3_PRACTICA_1_EJERCICIO_HANOI.dir/Pila.cpp.obj
   FLAGS = -g
   LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
   OBJECT_DIR = CMakeFiles\ADAL_U3_PRACTICA_1_EJERCICIO_HANOI.dir
