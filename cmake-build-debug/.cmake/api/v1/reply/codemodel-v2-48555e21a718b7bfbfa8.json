@@ -1,0 +1,60 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.30"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "ADAL_U3_PRACTICA_1_EJERCICIO_HANOI",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "ADAL_U3_PRACTICA_1_EJERCICIO_HANOI::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-ADAL_U3_PRACTICA_1_EJERCICIO_HANOI-Debug-eab7b8e6f98573cce7e2.json",
+					"name" : "ADAL_U3_PRACTICA_1_EJERCICIO_HANOI",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Users/Javier Avila Lopez/CLionProjects/Unidad_1_Actividad_1_Javier_Avila_Lopez/ADAL_U3_PRACTICA_1_EJERCICIO_HANOI/cmake-build-debug",
+		"source" : "C:/Users/Javier Avila Lopez/CLionProjects/Unidad_1_Actividad_1_Javier_Avila_Lopez/ADAL_U3_PRACTICA_1_EJERCICIO_HANOI"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 7
+	}
+}
